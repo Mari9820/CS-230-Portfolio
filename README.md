@@ -10,6 +10,6 @@ Working through the design document before writing code was really helpful becau
 
 If I could go back and improve one part of my work, I would add more detail about security and cloud deployment. Throughout this course I learned more about cloud platforms and how important scalability and security are, so I think I could explain those design decisions more clearly now.
 
-When designing the software, I focused on the client's needs first. I made sure my recommendations matched their goals of creating a reliable, scalable, and easy-to-maintain application. I learned that understanding what the client actually wants is just as important as writing good code because even well-written software won't be successful if it doesn't solve the right problem.
+When designing the software, I focused on the client's needs first. I made sure my recommendations matched their goals of creating a reliable, scalable, and easy-to-maintain application. I learned that understanding what the client actually needs is just as important as writing good code because even well-written software won't be successful if it doesn't solve the right problem.
 
 As I continue developing software, I plan to spend more time planning before coding. Creating diagrams, documenting requirements, and evaluating different technologies helped me understand the project much better. In future projects, I will continue using those strategies because they make the development process more organized and reduce problems later on.
